@@ -1,0 +1,4 @@
+clr
+ref /obe/start.sys
+clr
+shutdown
